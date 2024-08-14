@@ -1,0 +1,25 @@
+UserName: sujan
+Password: 123
+Phone Number: 9765345583
+Gender: Male
+----------------------------
+UserName: ganesh rapal
+Password: 123
+Phone Number: 9765435583
+Gender: Male
+----------------------------
+UserName: we
+Password: ww
+Phone Number: 1111111111
+Gender: Male
+----------------------------
+UserName: alisha
+Password: 123
+Phone Number: 9765345583
+Gender: Female
+----------------------------
+UserName: hello
+Password: 123
+Phone Number: 9765345583
+Gender: Male
+----------------------------

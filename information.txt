@@ -1,0 +1,20 @@
+First Name: Ganesh
+Last Name: Rapal
+Gender: Male
+Date of Birth: 03-12-2023
+Place of Birth: Baglung
+Nationality: Nepali
+Father's Name: ss
+Mother's Name: ss
+Phone Number: 9765345583
+Email: ganesh@gmail.com
+Backup Number: 9765345583
+Guarantor's Name: ramesh
+
+NID Number: 1212
+Citizenship Number: 1111
+Issue Date: 2023-12-04
+Issue Place: Baitadi
+Passport Number: PP12831512
+Passport Issue Date: 2023-12-23
+-------------------------------
